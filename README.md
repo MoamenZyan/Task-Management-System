@@ -14,6 +14,10 @@
 ## Task-Management-System Architecture
 ![Task_Management_System_Architecture](https://github.com/user-attachments/assets/f7fbef10-126b-42fd-abf0-ff233c99615a)
 
+## Task-Management-System ER Diagram & Mapping
+![Task-Management-System-ERD](https://github.com/user-attachments/assets/78799035-cb72-4a11-b892-45fed2cb47ad)
+![Task-Management-System-Mapping](https://github.com/user-attachments/assets/9f2d373d-76b7-49cb-8fff-ebe85ab62055)
+
 
 ## System Design & Design Pattern
 ### I used several design patterns in TMS like the following
